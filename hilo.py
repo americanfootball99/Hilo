@@ -31,4 +31,5 @@ def score(player_score, guess, num):
         else:
             player_score = player_score - 75
     return player_score
+
 main()

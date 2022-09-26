@@ -1,5 +1,7 @@
+# HILO / Higher or Lower
+# Created by: Logan Simmons
+
 import random;
-# num = random.randint(1,13)
 
 def main():
     num = random.randint(1,13)
